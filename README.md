@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Québec games issues</h1>
+<h1>Québec Games issues</h1>
 <blockquote>Report issues and discuss improvements / feature requests</blockquote>
 </div>
 
