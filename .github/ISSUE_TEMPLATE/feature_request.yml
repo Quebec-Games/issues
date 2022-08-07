@@ -2,7 +2,7 @@ name: Feature request
 description: Request a new feature.
 labels: [feature request]
 body:
-   - type: markdown
+  - type: markdown
     attributes:
       value: |
         Use Discord for questions: https://discord.gg/qcgames
