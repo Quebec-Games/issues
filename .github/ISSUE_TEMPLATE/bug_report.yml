@@ -13,7 +13,6 @@ body:
       label: Which server is this bug report for?
       options:
         - Murderer's Arena
-        - Doki Doki Murder
         - Québec Murder
         - All
     validations:
